@@ -2,6 +2,8 @@
 
 This project contains tasks for learning the basics of ECMAScript 2015 (ES6).
 
+![08806026ef621f900121](https://github.com/Official0mega/alx-backend-javascript/assets/122806822/0cdf774c-a3d1-4325-a07c-bed90156ec69)
+
 ## Tasks To Complete
 
 + [x] 0. **Const or let?**<br/>[0-constants.js](0-constants.js) contains a script that meets the following requirements.
